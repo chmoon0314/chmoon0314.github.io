@@ -5,12 +5,12 @@ date: 2026-10-28 22:59:21 +0900
 category: blog
 ---
 
-<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/eb1e717d-087f-4f9f-91de-2355c9fd5bf1" />
+<img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/427dc7c8-79ae-4ad3-aac3-13ecd15ebc50" />
 
 예전에 산 레고 사진기를 이렇게 꾸몄다. 덕지덕지 브릭을 붙였지만 내 눈에는 좋다. 조금 더 생동감 있어진 것 같다.
 나에게 의미 있는 작은 브릭들을 붙여 보려고 노력했는데 모자이크처럼 된 것 같다. 기타도 있고 테크닉 브릭도 있고 꽃도 있다. 
 
-<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/98dfdf6e-72b6-44b0-a06c-d0e9f2b609f0" />
+<img width="3024" height="4032" alt="Image" src="https://github.com/user-attachments/assets/2d46f25e-f6a9-4846-b72d-26549d50b590" />
 
 레고에 (다시금) 취미를 붙인 건 얼마 되지 않았다. 한 올해 5월 정도? 항상 공학을 공부하면서 비싼 장비와 시간이 들어가는 게 문제였는데
 그런 관점에서, 순수한 공학적 관점에서 레고 테크닉 같은 시리즈가 마음에 들었던 것 같다. 어렸을 때도 상상 속 물건들을 만들며 놀곤 했다. 
