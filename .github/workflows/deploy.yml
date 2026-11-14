@@ -41,8 +41,8 @@ jobs:
           rsync -a --delete blog_source/_posts/ _posts/
 
           if [[ -d blog_source/_assets ]]; then
-            mkdir -p assets
-            rsync -a --delete blog_source/_assets/ assets/
+            mkdir -p _assets
+            rsync -a blog_source/_assets/ _assets/
           fi
 
       - name: Setup Pages
