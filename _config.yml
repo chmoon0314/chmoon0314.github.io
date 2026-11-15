@@ -38,8 +38,6 @@ category_dir: category/
 tag_dir: tag/
 exclude:
   - blog_source/
-include:
-  - _assets/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
